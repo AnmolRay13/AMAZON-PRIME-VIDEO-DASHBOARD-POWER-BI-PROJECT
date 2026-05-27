@@ -65,10 +65,10 @@ The goal of this project is to transform raw dataset into a visual and interacti
 
 ---
 
-## 👨‍💻 Author
+##  Author
 **Anmol Ray**
 
-### 🔗 Connect With Me
+###  Connect With Me
 - LinkedIn: www.linkedin.com/in/anmol-ray-7176a0397
 
 ---
