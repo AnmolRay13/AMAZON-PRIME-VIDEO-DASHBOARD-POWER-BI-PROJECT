@@ -1,4 +1,4 @@
-# Prime Video Dashboard (Power BI)
+# Prime Video Dashboard (Power BI Project)
 
 ## Project Overview
 This project is an interactive Prime Video Analytics Dashboard built using Power BI to analyze content data and generate meaningful insights related to movies, TV shows, genres, ratings, and release trends.  
